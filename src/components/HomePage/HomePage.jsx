@@ -9,7 +9,7 @@ import HomePageContactUs from "./HomePageContactUs/HomePageContactUs";
 const HomePage = () => {
   return (
     <main>
-      <section className="flex flex-col gap-32 bg-[#f4f6f4]">
+      <section className="flex flex-col  bg-[#f4f6f4]">
         <div id="banner">
           <HomePageBanner />
         </div>

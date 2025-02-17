@@ -13,7 +13,7 @@ const HomePageServiceBanner = () => {
         backgroundAttachment: "fixed",
         width: "100%",
       }}
-      className="relative flex items-center justify-center py-16 px-4 md:px-6 lg:px-8"
+      className="relative flex items-center mt-10 justify-center py-16 px-4 md:px-6 lg:px-8"
     >
       <div className="absolute inset-0 bg-black bg-opacity-70 pointer-events-none"></div>
       <div className="container mx-auto z-10">
