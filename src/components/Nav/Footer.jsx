@@ -1,5 +1,4 @@
 import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from "react-icons/fa";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
 
 const Footer = () => {
   return (
@@ -28,27 +27,27 @@ const Footer = () => {
             </h2>
             <ul className="mt-3 space-y-2">
               <li>
-                <Link to="#banner" className="hover:text-gray-400 transition">
+                <a href="#banner" className="hover:text-gray-400 transition">
                   Home
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="#about-us" className="hover:text-gray-400 transition">
+                <a href="#about-us" className="hover:text-gray-400 transition">
                   About Us
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="#services" className="hover:text-gray-400 transition">
+                <a href="#services" className="hover:text-gray-400 transition">
                   Services
-                </Link>
+                </a>
               </li>
               <li>
-                <Link
-                  to="#contact-us"
+                <a
+                  href="#contact-us"
                   className="hover:text-gray-400 transition"
                 >
                   Contact Us
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
