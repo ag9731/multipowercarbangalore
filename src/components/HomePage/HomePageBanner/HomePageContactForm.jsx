@@ -102,7 +102,7 @@ const HomePageContactForm = () => {
       <div className="mt-6 space-y-3">
         <div className="flex items-center gap-3 sm:gap-5">
           <FaMobileScreen className="fill-white text-lg sm:text-xl" />
-          <h1 className="text-white text-sm sm:text-base">+91 96322 11717</h1>
+          <h1 className="text-white text-sm sm:text-base">+91 99725 89574</h1>
         </div>
         <div className="flex items-center gap-3 sm:gap-5">
           <FaEnvelope className="fill-white text-lg sm:text-xl" />

@@ -4,15 +4,15 @@ import whychooseus from "../../../assets/WhyChooseUsBanner/whychooseusbanner.web
 const HomePageWhyChooseUSSection = () => {
   const cardsArray = [
     {
-      desc: "The safety of your vehicle depends on its proper maintenance. That is why our team of trained technicians are ready to assist you with the proper maintenance of your vehicle.",
+      desc: "Your vehicle's safety relies on proper maintenance, and our team of skilled technicians is here to ensure it receives the care it needs.",
       designation: "Expert Engineers",
     },
     {
-      desc: "Our auto repair shop can service a variety of models. We only do the work that is needed to fix your problem. We offer guaranteed upfront pricing and savings.",
+      desc: "Our auto repair shop services a wide range of vehicle models. We focus solely on the necessary repairs to address your issue, offering transparent, upfront pricing and cost-saving options.",
       designation: "Experience Skills",
     },
     {
-      desc: "We diagnose, repair, and help prevent vehicle performance problems and ensure that vehicles are reliable, safe, and efficient.",
+      desc: "We diagnose, repair, and prevent vehicle performance issues, ensuring that your vehicle remains reliable, safe, and efficient.",
       designation: "Trusted Work",
     },
   ];

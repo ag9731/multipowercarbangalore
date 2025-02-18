@@ -19,14 +19,17 @@ const HomePageBanner = () => {
               We care about your car
             </h1>
             <p className="text-sm sm:text-base lg:text-lg leading-relaxed max-w-2xl">
-              We offer a full range of garage services to vehicle owners located
-              in the area. Our professionals know how to handle a wide range of
-              car services. With unbeatable prices, we offer a comprehensive
-              repair service and best-in-class equipment and workshops.
+              At Multi Power Car Service Bengaluru, we provide a complete range
+              of garage services for vehicle owners in the area. Our skilled
+              professionals are equipped to handle all types of car services
+              with expertise. Offering top-quality repairs at unbeatable prices,
+              we ensure the best service with state-of-the-art equipment and
+              well-equipped workshops.
             </p>
-            <button className="bg-[#dd7ad0] px-6 py-3 sm:px-8 sm:py-4 text-sm sm:text-base font-medium hover:bg-[#c56ab9] transition-colors duration-300">
+            
+            {/* <button className="bg-[#dd7ad0] px-6 py-3 sm:px-8 sm:py-4 text-sm sm:text-base font-medium hover:bg-[#c56ab9] transition-colors duration-300">
               Get Free Estimate
-            </button>
+            </button> */}
           </div>
           <div className="flex-1 w-full max-w-md lg:max-w-none mt-10 lg:mt-0">
             <HomePageContactForm />

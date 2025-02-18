@@ -24,7 +24,7 @@ const HomePageContactUs = () => {
         {/* Left Column - Map */}
         <div className="w-full h-64 sm:h-80 lg:h-[450px]">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.367716395895!2d77.55518278159093!3d12.948306054786254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3e1e6eebc399%3A0x1bb19f8efe0bd40e!2s8th%20Cross%20Rd%2C%20Gavipura%2C%20Kempegowda%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560019!5e0!3m2!1sen!2sin!4v1739775329437!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.509792723757!2d77.5255531!3d13.003175100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3daf3190c8e9%3A0x9653c1ca3cdeb15a!2sMulti%20Power%20Car%20Care!5e0!3m2!1sen!2sin!4v1739856168253!5m2!1sen!2sin"
             className="w-full h-full border-0 rounded-lg shadow-lg"
             allowFullScreen=""
             loading="lazy"
@@ -55,7 +55,7 @@ const HomePageContactUs = () => {
             <div className="flex items-center gap-3 md:gap-4 border p-3 md:p-4 rounded-md shadow-sm">
               <FaMobileRetro className="text-2xl md:text-3xl text-[#22c55e] flex-shrink-0" />
               <p className="text-sm md:text-base text-gray-700">
-                +91 96322 11717
+                +91 99725 89574
               </p>
             </div>
 

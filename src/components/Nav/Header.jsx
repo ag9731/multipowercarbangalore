@@ -42,9 +42,11 @@ const Header = () => {
           </nav>
 
           <section>
-            <button className="text-white font-bold uppercase bg-[#000000] py-2 px-5">
-              Book Now
-            </button>
+            <a href="#banner">
+              <button className="text-white font-bold uppercase bg-[#000000] py-2 px-5">
+                Book Now
+              </button>
+            </a>
           </section>
         </header>
       </section>

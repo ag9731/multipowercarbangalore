@@ -9,7 +9,7 @@ const HomePageServiceCards = () => {
   const services = [
     {
       image: img1,
-      title: "Euro Touch® Maintenance Package",
+      title: "Multi Power Maintenance Package",
       desc: "A car's maintenance schedule includes changing oil, rotating tires, checking fluids, and more. Timing and serpentine belts, however, need to be replaced periodically as well.",
     },
     {
@@ -56,14 +56,22 @@ const HomePageServiceCards = () => {
 
           {/* Contact Buttons */}
           <div className="flex gap-4 px-4 mt-4">
-            <button className="flex-1 flex items-center justify-center gap-2 bg-[#dd7ad0] p-2 rounded-lg text-white text-sm sm:text-base">
+            <a
+              href="https://wa.me/919972589574"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 flex items-center justify-center gap-2 bg-[#dd7ad0] p-2 rounded-lg text-white text-sm sm:text-base"
+            >
               <FaWhatsapp />
               <span>WhatsApp</span>
-            </button>
-            <button className="flex-1 flex items-center justify-center gap-2 bg-[#dd7ad0] p-2 rounded-lg text-white text-sm sm:text-base">
+            </a>
+            <a
+              href="tel:+919972589574"
+              className="flex-1 flex items-center justify-center gap-2 bg-[#dd7ad0] p-2 rounded-lg text-white text-sm sm:text-base"
+            >
               <FaPhone />
               <span>Call</span>
-            </button>
+            </a>
           </div>
         </div>
       ))}

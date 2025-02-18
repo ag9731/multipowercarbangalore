@@ -10,9 +10,9 @@ const HomePageServiceSection = () => {
             Services
           </h1>
           <p className="w-full sm:w-3/4 lg:w-2/3 xl:w-1/2 text-center text-sm sm:text-base">
-            We provide the best mechanic services, we have the best range of
-            services offered by our mechanics. Below are some of the auto repair
-            services we offer
+            At Multi Power Car Service, we offer top-quality mechanic services
+            with a comprehensive range of auto repair solutions. Here are some
+            of the services we provide.
           </p>
         </div>
         {/* Service Cards Section */}

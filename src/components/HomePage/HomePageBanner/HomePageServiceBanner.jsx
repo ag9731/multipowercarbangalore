@@ -23,10 +23,10 @@ const HomePageServiceBanner = () => {
               We provide the best mechanic service
             </h1>
             <p className="text-sm md:text-base">
-              Our professionals know how to handle a wide range of car services.
-              Whether you drive a passenger car or medium sized truck or SUV,
-              our mechanics strive to ensure that your vehicle will be
-              performing at its best.
+              Our experts are skilled in handling a variety of car services.
+              Whether you drive a passenger car, a mid-sized truck, or an SUV,
+              our mechanics work diligently to keep your vehicle running at its
+              peak performance.
             </p>
             <div className="group relative flex gap-3 md:gap-5 items-center border border-white px-4 py-3 md:px-5 md:py-4 overflow-hidden hover:border-pink-500 cursor-pointer">
               <div className="absolute inset-0 w-0 bg-blue-500 transition-all duration-300 ease-in-out group-hover:w-full"></div>
