@@ -18,35 +18,40 @@ const Header = () => {
   return (
     <main className="bg-[#fff] relative">
       {/* desktop menu */}
-      <section className="shadow-lg hidden md:block">
+      <section className="hidden md:block absolute top-0 z-[9999] w-[100%] bg-black bg-opacity-25">
         <header className="container mx-auto flex items-center justify-between">
-          <figure className="">
-            <img className="max-w-32" src={logo} alt="logo" />
+          <figure className="flex justify-center items-center">
+            <img className=" max-w-32" src={logo} alt="logo" />
           </figure>
 
-          <nav className="flex items-center">
-            <ul className="flex gap-20 text-[17px] text-black font-semibold">
-              <li>
-                <a href="#banner">Home</a> {/* Use anchor link here */}
-              </li>
-              <li>
-                <a href="#about-us">About</a>
-              </li>
-              <li>
-                <a href="#services">Services</a>
-              </li>
-              <li>
-                <a href="#contact-us">Contact</a>
-              </li>
-            </ul>
-          </nav>
+          <section className="flex items-center gap-14">
+            <section>
+              <nav className="flex items-center">
+                <ul className="flex gap-20 text-[20px] text-white font-semibold">
+                  <li>
+                    <a href="#banner">Home</a> {/* Use anchor link here */}
+                  </li>
+                  <li>
+                    <a href="#about-us">About</a>
+                  </li>
+                  <li>
+                    <a href="#services">Services</a>
+                  </li>
+                  <li>
+                    <a href="#contact-us">Contact</a>
+                  </li>
+                </ul>
+              </nav>
+            </section>
 
-          <section>
-            <a href="#banner">
-              <button className="text-white font-bold uppercase bg-[#000000] py-2 px-5">
-                Book Now
-              </button>
-            </a>
+            {/*Button */}
+            <section>
+              <a href="#banner">
+                <button className="text-white font-bold uppercase bg-green-600 py-2 px-10 rounded-sm">
+                  Book Now
+                </button>
+              </a>
+            </section>
           </section>
         </header>
       </section>

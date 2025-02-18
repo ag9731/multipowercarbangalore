@@ -51,7 +51,7 @@ const HomePageWhyChooseUSSection = () => {
               <h2 className="text-lg md:text-xl leading-7 md:leading-8">
                 {card.desc}
               </h2>
-              <p className="text-white px-4 py-1 w-full md:w-auto text-center font-bold bg-[#dd7ad0] rounded-full">
+              <p className=" py-1 w-full md:w-auto text-center font-bold rounded-full">
                 {card.designation}
               </p>
             </div>
