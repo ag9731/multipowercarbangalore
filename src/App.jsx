@@ -7,6 +7,7 @@ import HomePageAboutUs from "./components/HomePage/HomePageAboutUs/HomePageAbout
 import HomePage from "./components/HomePage/HomePage";
 import Footer from "./components/Nav/Footer";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import FloatingSocialMedia from "./components/FloatingSocialMedia";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           </Routes>
           <Footer />
         </Router>
+      <FloatingSocialMedia/>
       </section>
     </>
   );
