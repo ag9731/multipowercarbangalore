@@ -28,13 +28,15 @@ const HomePageServiceBanner = () => {
               our mechanics work diligently to keep your vehicle running at its
               peak performance.
             </p>
-            <div className="group relative flex gap-3 md:gap-5 items-center border border-white px-4 py-3 md:px-5 md:py-4 overflow-hidden hover:border-pink-500 cursor-pointer">
-              <div className="absolute inset-0 w-0 bg-blue-500 transition-all duration-300 ease-in-out group-hover:w-full"></div>
-              <FaCalendarDays className="text-2xl md:text-3xl fill-[#dd7ad0] group-hover:fill-white relative z-10" />
-              <h3 className="text-sm md:text-base relative z-10">
-                Book an Appointment
-              </h3>
-            </div>
+            <a href="#banner">
+              <div className="group relative flex gap-3 md:gap-5 items-center border border-white px-4 py-3 md:px-5 md:py-4 overflow-hidden hover:border-pink-500 cursor-pointer">
+                <div className="absolute inset-0 w-0 bg-blue-500 transition-all duration-300 ease-in-out group-hover:w-full"></div>
+                <FaCalendarDays className="text-2xl md:text-3xl fill-[#dd7ad0] group-hover:fill-white relative z-10" />
+                <h3 className="text-sm md:text-base relative z-10">
+                  Book an Appointment
+                </h3>
+              </div>
+            </a>
           </div>
           <div className="hidden lg:block w-px bg-white"></div>
           <div className="flex-1 text-white">
