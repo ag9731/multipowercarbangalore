@@ -46,8 +46,8 @@ const HomePageContactUs = () => {
             <div className="flex items-start md:items-center gap-3 md:gap-4 border p-3 md:p-4 rounded-md shadow-sm">
               <FaLocationDot className="text-2xl md:text-3xl text-[#ef4444] flex-shrink-0" />
               <p className="text-sm md:text-base text-gray-700">
-                No.23/24 Ground Floor, 8th Cross Road, Kempegowda Nagar,
-                Bengaluru
+                No 40 & 41, 9th Cross Rd, Kempegowda Layout, Laggere, Bengaluru,
+                Karnataka 560058
               </p>
             </div>
 
@@ -63,7 +63,7 @@ const HomePageContactUs = () => {
             <div className="flex items-center gap-3 md:gap-4 border p-3 md:p-4 rounded-md shadow-sm">
               <FaEnvelope className="text-2xl md:text-3xl text-[#60a5fa] flex-shrink-0" />
               <p className="text-sm md:text-base text-gray-700 break-all">
-                info@manpowercarservice.com
+                info@multipowercarservice.com
               </p>
             </div>
 

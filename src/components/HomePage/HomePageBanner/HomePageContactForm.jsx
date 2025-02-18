@@ -85,7 +85,7 @@ const HomePageContactForm = () => {
         >
           <option value="">Select Required Service*</option>
           <option value="Euro Touch Maintenance Package">
-            Euro Touch® Maintenance Package
+            Multi Power Cars Maintenance Package
           </option>
           <option value="Car Painting">Car Painting</option>
           <option value="Car Wash">Car Wash</option>
@@ -107,13 +107,14 @@ const HomePageContactForm = () => {
         <div className="flex items-center gap-3 sm:gap-5">
           <FaEnvelope className="fill-white text-lg sm:text-xl" />
           <h1 className="text-white text-sm sm:text-base">
-            info@manpowercarservice.com
+            info@multipowercarservice.com
           </h1>
         </div>
         <div className="flex items-start gap-3 sm:gap-5">
           <FaLocationDot className="fill-white text-lg sm:text-xl mt-1" />
           <h1 className="text-white capitalize text-sm sm:text-base">
-            no.23/24 ground floor 8th cross road, kempegowda nagara bengaluru
+            No 40 & 41, 9th Cross Rd, Kempegowda Layout, Laggere, Bengaluru,
+            Karnataka 560058
           </h1>
         </div>
       </div>

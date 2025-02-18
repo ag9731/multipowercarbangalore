@@ -20,7 +20,7 @@ const Header = () => {
       {/* desktop menu */}
       <section className="shadow-lg hidden md:block">
         <header className="container mx-auto flex items-center justify-between">
-          <figure>
+          <figure className="">
             <img className="max-w-32" src={logo} alt="logo" />
           </figure>
 
