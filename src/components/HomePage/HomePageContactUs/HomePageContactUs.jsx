@@ -24,7 +24,7 @@ const HomePageContactUs = () => {
         {/* Left Column - Map */}
         <div className="w-full h-64 sm:h-80 lg:h-[450px]">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.509792723757!2d77.5255531!3d13.003175100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3daf3190c8e9%3A0x9653c1ca3cdeb15a!2sMulti%20Power%20Car%20Care!5e0!3m2!1sen!2sin!4v1739856168253!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.5182315153615!2d77.531038!3d13.0026365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3df514c8a797%3A0xc5c15ee2c48bdba7!2sMulti%20Power%20Car%20Service!5e0!3m2!1sen!2sin!4v1740036231562!5m2!1sen!2sin"
             className="w-full h-full border-0 rounded-lg shadow-lg"
             allowFullScreen=""
             loading="lazy"
@@ -56,6 +56,12 @@ const HomePageContactUs = () => {
               <FaMobileRetro className="text-2xl md:text-3xl text-[#22c55e] flex-shrink-0" />
               <p className="text-sm md:text-base text-gray-700">
                 +91 99725 89574
+              </p>
+            </div>
+            <div className="flex items-center gap-3 md:gap-4 border p-3 md:p-4 rounded-md shadow-sm">
+              <FaMobileRetro className="text-2xl md:text-3xl text-[#22c55e] flex-shrink-0" />
+              <p className="text-sm md:text-base text-gray-700">
+                +91 96322 11717
               </p>
             </div>
 
