@@ -33,7 +33,7 @@ const FloatingSocialMedia = () => {
 
       {/* WhatsApp */}
       <a
-        href="https://wa.me/919972589574"
+        href="https://wa.me/919632211717"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center justify-center w-12 h-12 bg-green-500 text-white rounded-full shadow-lg hover:bg-green-600 transition"

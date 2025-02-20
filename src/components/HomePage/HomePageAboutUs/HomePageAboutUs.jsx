@@ -27,7 +27,14 @@ const HomePageAboutUs = () => {
           <div className="flex gap-4">
             <FaFacebookF className="fill-[#1877F2] text-2xl md:text-3xl hover:opacity-80 transition-opacity cursor-pointer" />
             <FaInstagram className="fill-[#E4405F] text-2xl md:text-3xl hover:opacity-80 transition-opacity cursor-pointer" />
-            <FaSquareWhatsapp className="fill-[#25D366] text-2xl md:text-3xl hover:opacity-80 transition-opacity cursor-pointer" />
+            <a
+              href="https://wa.me/919632211717"
+              target="_blank"
+              rel="noopener noreferrer"
+              className=""
+            >
+              <FaSquareWhatsapp className="fill-[#25D366] text-2xl md:text-3xl hover:opacity-80 transition-opacity cursor-pointer" />
+            </a>
           </div>
           <div>
             <a href="#contact-us">

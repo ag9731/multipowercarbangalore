@@ -107,14 +107,14 @@ const HomePageContactForm = () => {
         <div className="flex items-center gap-3 sm:gap-5">
           <FaEnvelope className="fill-white text-lg sm:text-xl" />
           <h1 className="text-white text-sm sm:text-base">
-            info@multipowercarservice.com
+            reddy@multipowercarservice.com
           </h1>
         </div>
         <div className="flex items-start gap-3 sm:gap-5">
           <FaLocationDot className="fill-white text-lg sm:text-xl mt-1" />
           <h1 className="text-white capitalize text-sm sm:text-base">
-            No 40 & 41, 9th Cross Rd, Kempegowda Layout, Laggere, Bengaluru,
-            Karnataka 560058
+            No 23/24, 8th Cross, Outer Ring Rd, Kempegowda Layout, Laggere,
+            Bengaluru, Karnataka 560058
           </h1>
         </div>
       </div>

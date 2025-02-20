@@ -46,8 +46,8 @@ const HomePageContactUs = () => {
             <div className="flex items-start md:items-center gap-3 md:gap-4 border p-3 md:p-4 rounded-md shadow-sm">
               <FaLocationDot className="text-2xl md:text-3xl text-[#ef4444] flex-shrink-0" />
               <p className="text-sm md:text-base text-gray-700">
-                No 40 & 41, 9th Cross Rd, Kempegowda Layout, Laggere, Bengaluru,
-                Karnataka 560058
+                No 23/24, 8th Cross, Outer Ring Rd, Kempegowda Layout, Laggere,
+                Bengaluru, Karnataka 560058
               </p>
             </div>
 

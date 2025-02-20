@@ -60,8 +60,8 @@ const Footer = () => {
             <div className="mt-3 space-y-3 text-sm">
               <p className="flex items-center justify-center md:justify-start gap-2">
                 <FaMapMarkerAlt className="text-red-500" />
-                No.23/24, Ground Floor, 8th Cross Road, Kempegowda Nagara,
-                Bengaluru
+                No 23/24, 8th Cross, Outer Ring Rd, Kempegowda Layout, Laggere,
+                Bengaluru, Karnataka 560058
               </p>
               <p className="flex items-center justify-center md:justify-start gap-2">
                 <FaPhoneAlt className="text-green-500" />
@@ -69,7 +69,7 @@ const Footer = () => {
               </p>
               <p className="flex items-center justify-center md:justify-start gap-2">
                 <FaEnvelope className="text-blue-400" />
-                info@manpowercarservice.com
+                reddy@multipowercarservice.com
               </p>
             </div>
           </div>
