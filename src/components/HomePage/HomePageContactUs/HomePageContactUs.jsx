@@ -63,7 +63,7 @@ const HomePageContactUs = () => {
             <div className="flex items-center gap-3 md:gap-4 border p-3 md:p-4 rounded-md shadow-sm">
               <FaEnvelope className="text-2xl md:text-3xl text-[#60a5fa] flex-shrink-0" />
               <p className="text-sm md:text-base text-gray-700 break-all">
-                info@multipowercarservice.com
+                reddy@multipowercarservice.com
               </p>
             </div>
 
